@@ -1,5 +1,5 @@
 🧭 Linux Master Guide for DevOps (Beginner → Pro)
-===================================================
+---
     
 🧱 Phase 1 — Linux Basics (Week 1)
 ----------------------------------
@@ -28,7 +28,7 @@
 
 📌 Practice: Create folders, move between them, and delete them.
 
-  
+---  
 
 📄 Phase 2 — File Handling (Week 2)
 -----------------------------------
@@ -48,7 +48,7 @@ Used daily for server configs & logs.
 
 🛠 DevOps engineers constantly monitor logs using tail -f.
 
-  
+ --- 
 
 🔐 Phase 3 — Permissions (Week 3)
 ---------------------------------
@@ -67,7 +67,7 @@ Permission meanings:
    w → Write
    x → Execute
 
-  
+---
 
 👤 Phase 4 — Users & Processes (Week 4)
 ---------------------------------------
@@ -89,7 +89,7 @@ Permission meanings:
 
 🛠 Used when apps hang or consume too many resources.
 
-  
+--- 
 
 📦 Phase 5 — Package Management (Week 5)
 ----------------------------------------
@@ -101,8 +101,7 @@ Used when installing server software.
     sudo apt install nginx
     sudo apt remove nginx
     
-
-  
+--- 
 
 🌐 Phase 6 — Networking (Week 6)
 --------------------------------
@@ -115,8 +114,7 @@ Used to debug server connection issues.
     curl google.com      Fetch website data
     wget fileurl         Download file
     
-
-  
+--- 
 
 🤖 Phase 7 — Shell Scripting (Week 7–8)
 ---------------------------------------
@@ -147,7 +145,7 @@ Automation is DevOps power.
    Conditions
    Cron jobs
 
-  
+---  
 
 💽 Phase 8 — Disk & System Monitoring
 -------------------------------------
